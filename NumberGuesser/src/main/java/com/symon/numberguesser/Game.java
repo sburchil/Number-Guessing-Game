@@ -1,4 +1,4 @@
-package NumberGuesser.src.main.java.com.symon.numberguesser;
+package com.symon.numberguesser;
 
 import java.awt.Image;
 import java.util.Random;
